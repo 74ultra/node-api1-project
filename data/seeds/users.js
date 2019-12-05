@@ -10,7 +10,7 @@ exports.seed = function(knex) {
         {
           name: 'Frodo Baggins',
           bio: 'The ring bearer',
-        },
+        }
       ]);
     });
 };
